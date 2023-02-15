@@ -11,6 +11,6 @@
  4. If there are no clients to display, simply display the message "No clients found :(" without the table headings.
  
  # Second thing :
- - I added some CSS styling to the form and table, including some padding, border-radius, box shadow, and background color for the button and font-weight, text   alignment 
+ - I've added some CSS styling to the form and table, including some padding, border-radius, box shadow, and background color for the button and font-weight, text   alignment 
  for the table headers. I also centred the text in the "Number of linked contacts" column.
  - Additionally, the CSS code adds some styling for the "No clients found" message, including a lighter text color and italic font stlye.
